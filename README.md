@@ -5,7 +5,6 @@
 
 ![Viniciuseleuterio GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vinciuseleuterio&show_icons=true&theme=radical)
 
-<img src="https://i.pinimg.com/564x/4f/01/67/4f0167d0418ad8032247abe3d46a25bf.jpg" width="350px" height="200"> 
 
  
 
