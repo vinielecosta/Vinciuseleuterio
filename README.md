@@ -4,7 +4,7 @@ _Software Enginner at [CI&T](https://ciandt.com/br/pt-br/home)_<br>
 _B.Sc. Candidate in Data Science and Artificial Intelligence at [UniDomBosco](https://unidombosco.edu.br)_
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/vinicius-ecosta"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/1024px-LinkedIn_icon.svg.png"/></a>
+  <a href="https://www.linkedin.com/in/vinicius-ecosta"><img width="28px" alt="LinkedIn" title="LinkedIn" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/1024px-LinkedIn_icon.svg.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
 
