@@ -8,6 +8,8 @@ _B.Sc. Candidate in Data Science and Artificial Intelligence at [UniDomBosco](ht
   &#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
 
+· <a href="https://docs.google.com/document/d/1YwkNb_I84gqnYy7c_6fdPj2YZlREsvIChKn_qsAQ59M/edit?usp=sharing">Resume</a> · 
+
 ![Dotnet](https://img.shields.io/badge/Framework-.NET-informational?style=flat&logo=dotnet&color=8a2be2)
 ![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-512BD4?style=flat&color=4C1A74)
